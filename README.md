@@ -1,4 +1,9 @@
 <img align="middle">![Header](https://github.com/efraitor/efraitor/blob/main/bannerProfile.png "Header")
+
+ <img src=
+"https://github.com/efraitor/efraitor/blob/main/bannerProfile.png"
+        alt="GeeksforGeeks logo"
+        align="right">
 <h1 align="center">Hi 👋, I'm Efraitor</h1>
 <h3 align="center">A game developer from Spain</h3>
 
