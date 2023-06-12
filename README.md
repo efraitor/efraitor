@@ -24,10 +24,10 @@ h3 {
 
 </body>
 </html>
-
+<img align="middle">![Header](https://github.com/efraitor/efraitor/blob/main/bannerProfile.png "Header")
 
 <p align="center">
-<img align="middle">![Header](https://github.com/efraitor/efraitor/blob/main/bannerProfile.png "Header")
+
    <img src=
 "https://github.com/efraitor/efraitor/blob/main/bannerProfile.png"
         alt="GeeksforGeeks logo"
