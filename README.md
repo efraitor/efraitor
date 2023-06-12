@@ -43,3 +43,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=efraitor&show_icons=true&locale=en" alt="efraitor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efraitor&" alt="efraitor" /></p>
+
+![efraitor's github stats](https://github-readme-stats.vercel.app/api?username=efraitor&show_icons=true&theme=dracula)
