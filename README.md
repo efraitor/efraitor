@@ -3,7 +3,7 @@
  <img src=
 "https://github.com/efraitor/efraitor/blob/main/bannerProfile.png"
         alt="GeeksforGeeks logo"
-        align="center">
+        align="middle">
 <h1 align="center">Hi 👋, I'm Efraitor</h1>
 <h3 align="center">A game developer from Spain</h3>
 
