@@ -1,4 +1,4 @@
-![Header](https://github.com/Jopii/profile/blob/main/BANNER.png "Header")
+![Header](https://github.com/efraitor/efraitor/blob/main/bannerProfile.png "Header")
 <h1 align="center">Hi 👋, I'm Efraitor</h1>
 <h3 align="center">A game developer from Spain</h3>
 
