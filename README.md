@@ -1,5 +1,5 @@
-
 ![Header](https://github.com/efraitor/efraitor/blob/main/bannerProfile.png "Header")
+![Header]((https://github.com/efraitor/efraitor/blob/main/bannerProfile.png "Header"))
 
 <p align="center">
 
