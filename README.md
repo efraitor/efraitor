@@ -1,4 +1,9 @@
 <p align="center">
+  <img width="250" src="https://github.com/efraitor/efraitor/blob/main/bannerProfile.png">
+</p>
+
+
+<p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
