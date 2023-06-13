@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
+
+
 ![Header](https://github.com/efraitor/efraitor/blob/main/bannerProfile.png "Header")
 ![Header](https://github.com/efraitor/efraitor/blob/main/bannerProfile.png "Header")
 
@@ -123,9 +128,7 @@
 </details>
 
 
-<p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
-</p>
+
 
 
 
