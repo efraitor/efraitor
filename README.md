@@ -2,17 +2,17 @@
   <img width="250" src="https://github.com/efraitor/efraitor/blob/main/bannerProfile.png">
 </p>
 
-<h2 align="center">
+<h1 align="center">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Efraitor, a game developer from Spain :computer: &#128512 &#x1f3a8 &#x1f435 <br>
   <br>
     
  </abc>
-</h2> 
+</h1> 
 
 <h1 align="center">Hi 👋, I'm Efraitor</h1>
-<h3 align="center">A game developer from Spain</h3>
+<h3 align="center">I'm Efraitor, a game developer from Spain :computer: &#128512 &#x1f3a8 &#x1f435</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efraitor&label=Profile%20views&color=0e75b6&style=flat" alt="efraitor" /> </p>
 
