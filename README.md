@@ -304,7 +304,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=efraitor&show_icons=true&locale=en&layout=compact" alt="efraitor" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=efraitor&show_icons=true&locale=en" alt="efraitor" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efraitor&" alt="efraitor" /></p>
 
@@ -332,9 +332,6 @@
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwinw&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
 </details>
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true" align="center" /></div>  
 
 <br/>  
 
@@ -431,10 +428,6 @@
 
 
 ![efraitor's github stats](https://github-readme-stats.vercel.app/api?username=efraitor&show_icons=true&theme=dracula)
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=xiaoluoboding&show_icons=true&theme=dracula)
 
 
 ### 📊 Github Stats
