@@ -54,6 +54,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efraitor&" alt="efraitor" /></p>
 
+<h2> Github Stats </h2> 
+<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrani&theme=tokyonight" alt="muskanrani" />
+<br/>
+
 
 <p align="left">
 <a href="https://github.com/harish-sethuraman/readme-components">
@@ -203,10 +208,7 @@ I'm a Developer Relations Engineer at Mantle network.
 
 <br/> 
 
-<h2> Github Stats </h2> 
-<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrani&theme=tokyonight" alt="muskanrani" />
-<br/>
+
 
 ![](https://komarev.com/ghpvc/?username=muskanrani&color=brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=muskanrani.muskanrani)
