@@ -70,24 +70,30 @@
 </p>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
+<table><tr>
+  <td valign="top" width="33%">
 ### 👨‍💻 Programming and Markup Languages  
 <div align="center">  
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-</div></td><td valign="top" width="33%">
-
-### Backend  
+</div></td>
+  
+  <td valign="top" width="25%">
+### 🧰 Frameworks and Libraries  
 <div align="center">  
-
-</div></td><td valign="top" width="33%">
-
-### DevOps  
+</div></td>
+  
+  <td valign="top" width="25%">
+### 🗄️ Databases and Cloud Hosting  
 <div align="center">  
-
-</div></td></tr></table>  
+</div></td>
+  
+    <td valign="top" width="25%">
+### 💻 Software and Tools  
+<div align="center">  
+</div></td>
+</tr></table>  
 
 <br/>  
 
