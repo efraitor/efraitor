@@ -87,6 +87,8 @@
   <tr>
 </table>
 
+<table>
+  <tr>
 <div class="row">
   <div class="column" style="background-color:#aaa;">
     <h2>Column 1</h2>
@@ -105,6 +107,9 @@
     <p>Some text..</p>
   </div>
 </div>
+  <tr>
+</table>    
+    
 ## My Skill Set  
 <table>
   <tr>
