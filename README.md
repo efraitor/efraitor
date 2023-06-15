@@ -74,7 +74,13 @@
 
 <table>
   <tr>
-    <td valign="top" width="25%">Cell 1</td>
+    <td valign="top" width="25%">
+      ### 👨‍💻 Programming and Markup Languages  
+<div align="center">  
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+</div></td>
     <td valign="top" width="25%">Cell 2</td>
     <td valign="top" width="25%">Cell 3</td>
     <td valign="top" width="25%">Cell 4</td>
