@@ -69,8 +69,20 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
+
+
+
+<table>
+  <tr>
+    <td>Cell 1</td>
+    <td>Cell 2</td>
+    <td>Cell 3</td>
+    <td>Cell 4</td>
+  <tr>
+</table>
 ## My Skill Set  
-<table><tr>
+<table>
+  <tr>
   <td valign="top" width="25%">
 ### 👨‍💻 Programming and Markup Languages  
 <div align="center">  
@@ -93,7 +105,8 @@
 ### 💻 Software and Tools  
 <div align="center">  
 </div></td>
-</tr></table>  
+</tr>
+</table>  
 
 <br/>  
 
