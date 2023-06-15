@@ -71,7 +71,7 @@
 
 ## My Skill Set  
 <table><tr>
-  <td valign="top" width="33%">
+  <td valign="top" width="25%">
 ### 👨‍💻 Programming and Markup Languages  
 <div align="center">  
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
