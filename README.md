@@ -2,7 +2,7 @@
   <img width="250" src="https://github.com/efraitor/efraitor/blob/main/bannerProfile.png">
 </p>
 
-<h1 align="center"><br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><br></h1>
+<h1 align="center" style="font-family: Fira Code"><br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><br></h1>
 <h3 align="center">I'm Efraitor, a game developer from Spain :computer: &#128512 &#x1f3a8 &#x1f435</h3>
 
 
@@ -11,7 +11,7 @@
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
 </p>
 
-<p align="center" style="font-family: Fira Code">
+<p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=8205B3&center=true&vCenter=true&width=435&lines=Game+Developer;Teacher;3D+-+Printing;Drones;Always+learning+new+things" alt="Typing SVG" /></a>
