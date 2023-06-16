@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"><br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><br></h1>
-<h3 align="center"  style="font-family: Roboto Condensed" style="color:#8205B3FF;">I'm Efraitor, a game developer from Spain :computer: &#128512 &#x1f3a8 &#x1f435</h3>
+<p align="center"  style="font-family: Roboto Condensed" style="color:#8205B3FF;">I'm Efraitor, a game developer from Spain :computer: &#128512 &#x1f3a8 &#x1f435</p>
 
 
 <p align="center">
