@@ -13,7 +13,7 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://github.com/efraitor/efraitor/blob/main/bannerProfile.png" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://github.com/efraitor/efraitor/blob/main/description.png" alt="Typing SVG" /></a>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=24&pause=500&color=8205B3&center=true&vCenter=true&width=435&lines=Game+Developer;Teacher;3D+-+Printing;Drones;Always+learning+new+things" alt="Typing SVG" /></a>
   
