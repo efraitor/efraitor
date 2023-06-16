@@ -13,9 +13,10 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://github.com/efraitor/efraitor/blob/main/description.png" alt="Typing SVG" /></a>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=24&pause=500&color=8205B3&center=true&vCenter=true&width=435&lines=Game+Developer;Teacher;3D+-+Printing;Drones;Always+learning+new+things" alt="Typing SVG" /></a>
+  
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&duration=1&pause=500&color=8205B3&vCenter=true&repeat=false&width=435&lines=I'm+Efraitor%2C+a+game+developer+from+Spain+%F0%9F%92%BB+%F0%9F%98%80+%F0%9F%8E%A8+%F0%9F%90%B5" alt="Typing SVG" /></a>
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=24&pause=500&color=8205B3&center=true&vCenter=true&width=435&lines=Game+Developer;Teacher;3D+-+Printing;Drones;Always+learning+new+things" alt="Typing SVG" /></a>
   
