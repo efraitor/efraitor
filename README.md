@@ -11,7 +11,7 @@
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
 </p>
 
-<p align="center">
+<p align="center" style="font-family: Fira Code">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=8205B3&center=true&vCenter=true&width=435&lines=Game+Developer;Teacher;3D+-+Printing;Drones;Always+learning+new+things" alt="Typing SVG" /></a>
