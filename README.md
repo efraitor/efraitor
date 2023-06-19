@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/efraitor">
-    <img src="https://github.com/efraitor/efraitor/blob/main/description.png" alt="Efraitor" /></a>
+    <img width="588" src="https://github.com/efraitor/efraitor/blob/main/description.png" alt="Efraitor" /></a>
 </p>
 
 <p align="center">
