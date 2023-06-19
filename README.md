@@ -547,7 +547,8 @@ https://muskanrani.github.io/Portfolio/
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
 <h3>Or you can scan this QR Code 👇🏻</h3>
-<img src="https://github.com/efraitor/efraitor/blob/main/efraitordev.png"  style="width: 20%" />
+<img src="https://github.com/efraitor/efraitor/blob/main/efraitordev.png"  style="width: 20%" alt="efraitor.dev" />
+  <img width="588" src="https://github.com/efraitor/efraitor/blob/main/description.png" alt="efraitor.dev" />
 
 
 
