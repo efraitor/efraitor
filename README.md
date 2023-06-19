@@ -760,7 +760,7 @@ class About extends Me {
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://store.steampowered.com/app/1507120/The_Spirit_of_the_Samurai/)](https://store.steampowered.com/app/1507120/The_Spirit_of_the_Samurai/)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://store.steampowered.com/app/1507120/The_Spirit_of_the_Samurai/&mode=dark&style=horizontal)](https://store.steampowered.com/app/1507120/The_Spirit_of_the_Samurai/)
 
 
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://bookmark.style/&mode=light&style=horizontal)](https://store.steampowered.com/app/1507120/The_Spirit_of_the_Samurai/)
