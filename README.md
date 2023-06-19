@@ -478,64 +478,10 @@
 </details>
 
 
-
-
-
-
-
-
-
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/sivramshastri) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
-[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
-
-
-
-[![Twitter Badge](https://img.shields.io/badge/-@0xpranjal-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/0xpranjal)](https://twitter.com/0xpranjal) 
-[![Linkedin Badge](https://img.shields.io/badge/-pranjalbhardwaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/)](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/)
-[![Gmail Badge](https://img.shields.io/badge/-pranjal@algorand.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjalbhardwaj@ieee.org)](mailto:pranjal@algorand.org)
----
-<p  align="center"><img height="380" src = "https://github.com/Bhard27/Bhard27/blob/master/mee.gif"></p>
-
-
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhard27.Bhard27)
-
-### Summary👋
-- 🔭 I’m currently working on Deep Learning research projects.
-- 👯 I’m looking to collaborate on research papers related to GANs, Swarm intelligence, Biomedical Imaging, Federated learning, and Adversarial ML.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/) , [Email](mailto:pranjalbhardwaj@ieee.org)
-
-### Recent Activity
-<!--START_SECTION:activity-->
-1. 🚀 Pushed 1 commit to [Bhard27/Bhard27](https://github.com/Bhard27/Bhard27)
-2. ❗️ Opened issue [#1](https://github.com/tassossapalidis/latextgan/issues/1) in [tassossapalidis/latextgan](https://github.com/tassossapalidis/latextgan)
-3. ❗️ Closed issue [#2](https://github.com/Bhard27/Bhard27/issues/2) in [Bhard27/Bhard27](https://github.com/Bhard27/Bhard27)
-4. 🗣 Commented NaN commits in [AmineDiro/Adversarial-Attacks](https://github.com/AmineDiro/Adversarial-Attacks)
-5. 🗣 Commented on [#30](https://github.com/SimonBlanke/Hyperactive/issues/30) in [SimonBlanke/Hyperactive](https://github.com/SimonBlanke/Hyperactive)
-<!--END_SECTION:activity-->
-
 
 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</br>
-<h2> Connect with me on 👇</h2>
-<a href="https://www.linkedin.com/in/muskan-rani-980553188/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn--blue" />
-</a>
-<a href="https://www.hackerrank.com/MuskanRani" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank--darkgreen" ;></img></a>
-</a> 
-<a href="https://twitter.com/_muskan_gupta_" target="_blank">
-<img src="https://img.shields.io/badge/Twitter--blue" />
-</a>
-</a> 
-<a href="https://leetcode.com/Muskan_Rani/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode--blue" />
-</a>
-
-<br/> 
 
 
 
@@ -543,11 +489,11 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=muskanrani.muskanrani)
 <img src="https://img.shields.io/github/forks/muskanrani/muskanrani?style=social"></img>
 <h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
-https://muskanrani.github.io/Portfolio/
+https://efraitor.dev/
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
 <h3>Or you can scan this QR Code 👇🏻</h3>
- <img width="588" src="https://github.com/efraitor/efraitor/blob/main/efraitordev.png" alt="efraitor.dev" />
+<img align='left' width="90" src="https://github.com/efraitor/efraitor/blob/main/efraitordev.png" alt="efraitor.dev" />
 
 
 
