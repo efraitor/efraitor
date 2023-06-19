@@ -547,11 +547,9 @@ https://muskanrani.github.io/Portfolio/
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
 <h3>Or you can scan this QR Code 👇🏻</h3>
-<img src="https://github.com/muskanrani/muskanrani/blob/master/qrcode_muskanrani.github.io.png"  style="width: 20%" />
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
-</p>
+<img src="https://github.com/efraitor/efraitor/blob/main/efraitordev.png"  style="width: 20%" />
+
+
 
 
 
@@ -562,24 +560,11 @@ https://muskanrani.github.io/Portfolio/
 <div align="center">
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/RishavAnandDev" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+
+
 <a href="https://linkedin.com/in/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/RishavAnandDev" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
 
 <br/>  
 
@@ -600,22 +585,6 @@ https://muskanrani.github.io/Portfolio/
 <hr></hr>
 
 
-
-
-```dart
-// tools_I_use organized
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Java", "Dart", "C++", "C", "Python", "Javascript" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Sublime", "Neovim" },
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
-```
-
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
@@ -624,32 +593,6 @@ class About extends Me {
 
 
 
-<details open> 
-  <summary><h2>🌠 Top Sponsors</h2></summary>
-
-  <table>
-    <tr>
-      <!-- <th>$10+/month</th> -->
-      <th>$5+/month</th>
-    </tr>
-    <tr>
-      <!-- $10+/month -->
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/jesterb0206"><img src="https://github.com/jesterb0206.png" alt="@jesterb0206" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/jesterb0206"><b>Bradley Jester</b></a>
-        </b>
-      </td> -->
-      <!-- $5+/month -->
-      <td>
-        <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
-      </td>
-    </tr>
-  </table>
-
-  <a href="https://github.com/sponsors/DenverCoder1/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
-</details>
 
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
@@ -668,39 +611,17 @@ class About extends Me {
     <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
   </p>
 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="  https://github.com/efraitor?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 
-
-
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
 ### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
-
-<br>
 
 
 
-
-
-### 🛠️ My Projects
-<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<br/>
 
 
 ### 🌱 My latest projects
@@ -720,16 +641,6 @@ class About extends Me {
 
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://store.steampowered.com/app/1507120/The_Spirit_of_the_Samurai/&mode=dark&style=horizontal)](https://store.steampowered.com/app/1507120/The_Spirit_of_the_Samurai/)
 <!-- [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://bookmark.style/&mode=light&style=horizontal)](https://store.steampowered.com/app/1507120/The_Spirit_of_the_Samurai/) -->
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -753,3 +664,8 @@ class About extends Me {
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
